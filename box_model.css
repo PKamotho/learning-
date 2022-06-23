@@ -1,0 +1,48 @@
+*{
+    justify-content: center;
+    align-items: center;
+}
+div{
+    background-color: lightgray;
+    width:50% ;
+    border:10px solid green ;
+    margin: 20px;
+    padding: 20px;
+}
+p.ex1{
+    color: green;
+    text-decoration: double;
+    text-align: center;
+    border:1px solid black ;
+    outline-style:solid ;
+    outline-color: red;
+    outline-width: thin;
+}
+p.ex2{
+    color: greenyellow;
+    text-decoration: line-through;
+    text-align: center;
+    
+    border:1px solid black ;
+    outline-style:solid ;
+    outline-color: red;
+    outline-width: medium;
+}
+p.ex3{
+    color: blueviolet;
+    text-decoration: wavy;
+    text-align: center;
+    border:1px solid black ;
+    outline-style:solid ;
+    outline-color: red;
+    outline-width: thick;
+}
+p.ex4{
+    color: orangered;
+    text-decoration: wavy;
+    text-align: center;
+    border:1px solid black ;
+    outline-style:solid ;
+    outline-color: red;
+    outline-width: 4px;
+}

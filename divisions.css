@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: cente
+    
+}
+#form_contact{
+    background-color: black;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+
+}
